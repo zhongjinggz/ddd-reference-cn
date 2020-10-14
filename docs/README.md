@@ -1,0 +1,77 @@
+# 领域驱动设计参考—定义及模式提要 
+ ["Domain-Driven Design Reference"](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) 中文版  
+作者：Eric Evans  
+译者：钟敬
+
+
+
+## 目录 Contents
+
+[致谢 Acknowledgements](cn_0.1_acknowledgement.md)  
+定义 Definitions  
+模式语言总览 Pattern Language Overview  
+
+### I. 让模型发挥作用 Putting the Model to Work  
+
+1.1 限界上下文 Bounded Context  
+1.2 统一语言 Ubiquitous Language  
+1.3 持续集成 Continuous Integration  
+1.4 模型驱动设计 Model‐Driven Design  
+1.5 实操性建模师 Hands‐on Modelers  
+1.6 通过重构来加深理解 Refactoring Toward Deeper Insight  
+
+### II. 模型驱动设计的组成部分 Building Blocks of a Model-Driven Design  
+
+2.1 分层架构 Layered Architecture  
+2.2 实体 Entities  
+2.3 值对象 Value Objects  
+2.4 领域事件 Domain Events *  
+2.5 服务 Services  
+2.6 模块 Modules  
+2.7 聚合 Aggregates  
+2.8 储存库 Repositories  
+2.9 工厂 Factories  
+
+### III. 柔性设计 Supple Design  
+
+3.1 揭示意图的接口 Intention-Revealing Interfaces  
+3.2 无副作用函数 Side-Effect-Free Functions  
+3.3 断言 Assertions  
+3.4 独立类 Standalone Classes  
+3.5 操作闭包 Closure of Operations  
+3.6 声明式设计 Declarative Design  
+3.7 借鉴既定形式 Drawing on Established Formalisms  
+3.8 概念轮廓 Conceptual Contours  
+
+### IV. 战略设计之上下文映射 Context Mapping for Strategic Design  
+
+4.1 上下文映射 Context Map  
+4.2 伙伴关系 Partnership *  
+4.3 共享内核 Shared Kernel  
+4.4 客户/供应商开发 Customer/Supplier Development   
+4.5 尊奉者 Conformist  
+4.6 防腐层 Anticorruption Layer   
+4.7 开放主机服务 Open‐host Service  
+4.8 发布语言 Published Language  
+4.9 彼此独立 Separate Ways  
+4.10 大泥球 Big Ball of Mud *  
+
+### V. 战略设计之精炼 Distillation for Strategic Design  
+
+5.1 核心域 Core Domain  
+5.2 通用子域 Generic Subdomains  
+5.3 领域愿景陈述 Domain Vision Statement  
+5.4 突出核心 Highlighted Core  
+5.5 内聚机制 Cohesive Mechanisms  
+5.6 隔离核心 Segregated Core  
+5.7 抽象核心 Abstract Core  
+
+### VI. 战略设计之大比例结构 Large-scale Structure for Strategic Design  
+
+6.1 演进的顺序 Evolving Order  
+6.2 系统隐喻 System Metaphor  
+6.3 职责分层 Responsibility Layers  
+6.4 知识层 Knowledge Level  
+6.5 可插拔组件框架 Pluggable Component Framework  
+
+\* 自2004年的书之后引入的新术语。  
