@@ -3,12 +3,12 @@
 * [目录](README.md)
 
 	* [致谢](cn_0.1_acknowledgement.md)  
-	* 定义  
-	* 模式语言总览  
+	* [定义](cn_0.2_definitions.md)  
+	* [模式语言总览](cn_0.3_pattern_language_overview.md)  
 
-* I. 让模型发挥作用   
+* [I. 让模型发挥作用](cn_1.0_putting_the_model_to_work.md)   
 
-	* 1.1 限界上下文   
+	* [1.1 限界上下文](cn_1.1_bounted_context.md)   
 	* 1.2 统一语言   
 	* 1.3 持续集成   
 	* 1.4 模型驱动设计   
