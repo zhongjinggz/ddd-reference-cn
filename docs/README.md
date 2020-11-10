@@ -5,15 +5,25 @@
 
 
 
+【译者注】
+
+* Eric Evans 在2004年出版了《领域驱动设计》一书。2014年，作者抽取出书中各模式的摘要，并增补了一些内容，成为了这本小册子。通过阅读本书可以达到以下目的：
+  * 对于不了解DDD的读者，可以大体上了解DDD内容；
+  * 对于熟悉DDD的读者，可以印证自己的知识结构是否准确和完整；
+  * 对于培训师、咨询师、有关书籍的作者等，可以在相关工作中校准概念，并在此基础上进一步扩展。
+* 本书原文遵循Creative Commons Attribution 4.0 International License，本译文遵循相同的许可，参见 http://creativecommons.org/licenses/by/4.0/ 。
+
+
+
 ## 目录 Contents
 
 [致谢 Acknowledgements](cn_0.1_acknowledgement.md)  
-定义 Definitions  
-模式语言总览 Pattern Language Overview  
+[定义 Definitions](cn_0.2_definitions.md)  
+[模式语言总览 Pattern Language Overview](cn_0.3_pattern_language_overview.md)  
 
-### I. 让模型发挥作用 Putting the Model to Work  
+### [I. 让模型发挥作用 Putting the Model to Work](cn_1.0_putting_the_model_to_work.md)  
 
-1.1 限界上下文 Bounded Context  
+[1.1 限界上下文 Bounded Context](cn_1.1_bounted_context.md)  
 1.2 统一语言 Ubiquitous Language  
 1.3 持续集成 Continuous Integration  
 1.4 模型驱动设计 Model‐Driven Design  
