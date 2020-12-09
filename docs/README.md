@@ -24,13 +24,13 @@
 ### [I. 让模型发挥作用 Putting the Model to Work](cn_1.0_putting_the_model_to_work.md)  
 
 [1.1 限界上下文 Bounded Context](cn_1.1_bounted_context.md)  
-1.2 统一语言 Ubiquitous Language  
-1.3 持续集成 Continuous Integration  
-1.4 模型驱动设计 Model‐Driven Design  
-1.5 实操性建模师 Hands‐on Modelers  
-1.6 通过重构来加深理解 Refactoring Toward Deeper Insight  
+[1.2 统一语言 Ubiquitous Language](cn_1.2_ubiquitous_language.md)  
+[1.3 持续集成 Continuous Integration](cn_1.3_continuous_integration.md)  
+[1.4 模型驱动设计 Model‐Driven Design](cn_1.4_model_driven_design.md)  
+[1.5 实操型建模师 Hands‐on Modelers](cn_1.5_hands_on_modlers.md)  
+[1.6 通过重构加深理解 Refactoring Toward Deeper Insight](cn_1.6_refactoring_toward_deeper_insight.md)  
 
-### II. 模型驱动设计的组成部分 Building Blocks of a Model-Driven Design  
+### [II. 模型驱动设计的构建块 Building Blocks of a Model-Driven Design](cn_2.0_building_blocks_of_a_model_driven_design.md)  
 
 2.1 分层架构 Layered Architecture  
 2.2 实体 Entities  
@@ -38,7 +38,7 @@
 2.4 领域事件 Domain Events *  
 2.5 服务 Services  
 2.6 模块 Modules  
-2.7 聚合 Aggregates  
+[2.7 聚合 Aggregates](cn_2.7_aggregate.md)
 2.8 储存库 Repositories  
 2.9 工厂 Factories  
 
@@ -68,7 +68,7 @@
 
 ### V. 战略设计之精炼 Distillation for Strategic Design  
 
-5.1 核心域 Core Domain  
+[5.1 核心域 Core Domain](cn_5.1_core_domain.md)  
 5.2 通用子域 Generic Subdomains  
 5.3 领域愿景陈述 Domain Vision Statement  
 5.4 突出核心 Highlighted Core  

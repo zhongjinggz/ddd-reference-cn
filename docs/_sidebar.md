@@ -1,34 +1,30 @@
 
 
 * [目录](README.md)
-
 	* [致谢](cn_0.1_acknowledgement.md)  
 	* [定义](cn_0.2_definitions.md)  
 	* [模式语言总览](cn_0.3_pattern_language_overview.md)  
 
 * [I. 让模型发挥作用](cn_1.0_putting_the_model_to_work.md)   
-
 	* [1.1 限界上下文](cn_1.1_bounted_context.md)   
-	* 1.2 统一语言   
-	* 1.3 持续集成   
-	* 1.4 模型驱动设计   
-	* 1.5 实操性建模师   
-	* 1.6 通过重构来加深理解   
+	* [1.2 统一语言](cn_1.2_ubiquitous_language.md)   
+	* [1.3 持续集成](cn_1.3_continuous_integration.md)   
+	* [1.4 模型驱动设计](cn_1.4_model_driven_design.md)   
+	* [1.5 实操性建模师](cn_1.5_hands_on_modlers.md)   
+	* [1.6 通过重构加深理解](cn_1.6_refactoring_toward_deeper_insight.md)   
 
-* II. 模型驱动设计的组成部分  
-
+* [II. 模型驱动设计的构建块](cn_2.0_building_blocks_of_a_model_driven_design.md)  
 	* 2.1 分层架构  
 	* 2.2 实体   
 	* 2.3 值对象   
 	* 2.4 领域事件 *  
 	* 2.5 服务  
 	* 2.6 模块  
-	* 2.7 聚合  
+	* [2.7 聚合](cn_2.7_aggregate.md)  
 	* 2.8 储存库  
 	* 2.9 工厂  
 
 * III. 柔性设计  
-
 	* 3.1 揭示意图的接口  
 	* 3.2 无副作用函数  
 	* 3.3 断言  
@@ -39,7 +35,6 @@
 	* 3.8 概念轮廓  
 
 * IV. 战略设计之上下文映射   
-
 	* 4.1 上下文映射  
 	* 4.2 伙伴关系*  
 	* 4.3 共享内核  
@@ -53,7 +48,7 @@
 
 * V. 战略设计之精炼   
 
-	* 5.1 核心域
+	* [5.1 核心域](cn_5.1_core_domain.md)
 	* 5.2 通用子域  
 	* 5.3 领域愿景陈述  
 	* 5.4 突出核心   
