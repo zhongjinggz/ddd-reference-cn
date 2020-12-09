@@ -38,7 +38,7 @@
 2.4 领域事件 Domain Events *  
 2.5 服务 Services  
 2.6 模块 Modules  
-[2.7 聚合 Aggregates](cn_2.7_aggregate.md)
+[2.7 聚合 Aggregates](cn_2.7_aggregate.md)  
 2.8 储存库 Repositories  
 2.9 工厂 Factories  
 
