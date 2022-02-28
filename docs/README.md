@@ -21,7 +21,7 @@
 [定义 Definitions](cn_0.2_definitions.md)  
 [模式语言总览 Pattern Language Overview](cn_0.3_pattern_language_overview.md)  
 
-### [I. 让模型发挥作用 Putting the Model to Work](cn_1.0_putting_the_model_to_work.md)  
+### [I. 运用模型 Putting the Model to Work](cn_1.0_putting_the_model_to_work.md)  
 
 [1.1 限界上下文 Bounded Context](cn_1.1_bounted_context.md)  
 [1.2 统一语言 Ubiquitous Language](cn_1.2_ubiquitous_language.md)  
@@ -35,11 +35,11 @@
 2.1 分层架构 Layered Architecture   
 2.2 实体 Entities   
 2.3 值对象 Value Objects   
-2.4 领域事件 Domain Events *   
-2.5 服务 Services   
-2.6 模块 Modules   
+2.4 领域事件 Domain Events *       
+2.5 服务 Services       
+2.6 模块 Modules       
 [2.7 聚合 Aggregates](cn_2.7_aggregate.md)   
-2.8 储存库 Repositories   
+2.8 仓储 Repositories   
 2.9 工厂 Factories   
 
 ### III. 柔性设计 Supple Design  
@@ -76,9 +76,9 @@
 5.6 隔离核心 Segregated Core  
 5.7 抽象核心 Abstract Core  
 
-### VI. 战略设计之大比例结构 Large-scale Structure for Strategic Design  
+### VI. 战略设计之大型结构 Large-scale Structure for Strategic Design  
 
-6.1 演进的顺序 Evolving Order  
+6.1 演进式顺序 Evolving Order  
 6.2 系统隐喻 System Metaphor  
 6.3 职责分层 Responsibility Layers  
 6.4 知识层 Knowledge Level  
