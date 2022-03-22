@@ -71,7 +71,7 @@
 [5.1 核心域 Core Domain](cn_5.1_core_domain.md)  
 5.2 通用子域 Generic Subdomains  
 5.3 领域愿景陈述 Domain Vision Statement  
-5.4 突出核心 Highlighted Core  
+5.4 强调核心 Highlighted Core  
 5.5 内聚机制 Cohesive Mechanisms  
 5.6 隔离核心 Segregated Core  
 5.7 抽象核心 Abstract Core  
