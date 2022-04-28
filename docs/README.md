@@ -28,7 +28,7 @@
 
 ### [II. 模型驱动设计的构建块 Building Blocks of a Model-Driven Design](cn_2.0_building_blocks_of_a_model_driven_design.md)  
 
-2.1 分层架构 Layered Architecture   
+[2.1 分层架构 Layered Architecture](cn_2.1_layered_architecture.md)  
 2.2 实体 Entities   
 2.3 值对象 Value Objects   
 2.4 领域事件 Domain Events *       
