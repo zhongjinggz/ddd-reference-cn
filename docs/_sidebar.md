@@ -19,9 +19,9 @@
   - [2.3 值对象](cn_2.3_value_objects.md)
   - [2.4 领域事件 *](cn_2.4_domain_events.md)  
   - [2.5 服务](cn_2.5_services.md)  
-  - 2.6 模块  
+  - [2.6 模块](cn_2.6_modules.md)  
   - [2.7 聚合](cn_2.7_aggregate.md)  
-  - 2.8 储存库  
+  - 2.8 仓库  
   - 2.9 工厂  
 
 - III. 柔性设计  

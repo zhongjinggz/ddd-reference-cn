@@ -33,10 +33,10 @@
 [2.3 值对象 Value Objects](cn_2.3_value_objects.md)  
 [2.4 领域事件 Domain Events *](cn_2.4_domain_events.md)  
 [2.5 服务 Services](cn_2.5_services.md)       
-2.6 模块 Modules       
+[2.6 模块 Modules](cn_2.6_modules.md)       
 [2.7 聚合 Aggregates](cn_2.7_aggregate.md)   
-2.8 仓储 Repositories   
-2.9 工厂 Factories   
+[2.8 仓库 Repositories](cn_2.8_repositories.md)   
+[2.9 工厂 Factories](cn_2.9_factories.md)   
 
 ### III. 柔性设计 Supple Design  
 
