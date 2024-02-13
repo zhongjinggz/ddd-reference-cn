@@ -32,7 +32,7 @@
 [2.2 实体 Entities](cn_2.2_entities.md)  
 [2.3 值对象 Value Objects](cn_2.3_value_objects.md)  
 [2.4 领域事件 Domain Events *](cn_2.4_domain_events.md)  
-2.5 服务 Services       
+[2.5 服务 Services](cn_2.5_services.md)       
 2.6 模块 Modules       
 [2.7 聚合 Aggregates](cn_2.7_aggregate.md)   
 2.8 仓储 Repositories   
@@ -42,7 +42,7 @@
 
 3.1 揭示意图的接口 Intention-Revealing Interfaces  
 3.2 无副作用函数 Side-Effect-Free Functions  
-3.3 断言 Assertions  
+[3.3 断言 Assertions](cn_3.3_assertions.md)  
 3.4 独立类 Standalone Classes  
 3.5 操作闭包 Closure of Operations  
 3.6 声明式设计 Declarative Design  

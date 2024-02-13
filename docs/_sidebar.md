@@ -18,7 +18,7 @@
   - [2.2 实体](cn_2.2_entities.md)
   - [2.3 值对象](cn_2.3_value_objects.md)
   - [2.4 领域事件 *](cn_2.4_domain_events.md)  
-  - 2.5 服务  
+  - [2.5 服务](cn_2.5_services.md)  
   - 2.6 模块  
   - [2.7 聚合](cn_2.7_aggregate.md)  
   - 2.8 储存库  
@@ -27,7 +27,7 @@
 - III. 柔性设计  
   - 3.1 揭示意图的接口  
   - 3.2 无副作用函数  
-  - 3.3 断言  
+  - [3.3 断言 Assertions](cn_3.3_assertions.md)  
   - 3.4 独立类  
   - 3.5 操作闭包  
   - 3.6 声明式设计  
