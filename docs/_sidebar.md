@@ -20,9 +20,9 @@
   - [2.4 领域事件 *](cn_2.4_domain_events.md)  
   - [2.5 服务](cn_2.5_services.md)  
   - [2.6 模块](cn_2.6_modules.md)  
-  - [2.7 聚合](cn_2.7_aggregate.md)  
-  - 2.8 仓库  
-  - 2.9 工厂  
+  - [2.7 聚合体](cn_2.7_aggregate.md)  
+  - [2.8 仓库](cn_2.8_repositories.md)  
+  - [2.9 工厂](cn_2.9_factories.md)
 
 - III. 柔性设计  
   - 3.1 揭示意图的接口  
