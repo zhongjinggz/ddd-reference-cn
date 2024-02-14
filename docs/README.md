@@ -34,20 +34,20 @@
 [2.4 领域事件 Domain Events *](cn_2.4_domain_events.md)  
 [2.5 服务 Services](cn_2.5_services.md)       
 [2.6 模块 Modules](cn_2.6_modules.md)       
-[2.7 聚合 Aggregates](cn_2.7_aggregate.md)   
+[2.7 聚合体 Aggregates](cn_2.7_aggregate.md)   
 [2.8 仓库 Repositories](cn_2.8_repositories.md)   
 [2.9 工厂 Factories](cn_2.9_factories.md)   
 
-### III. 柔性设计 Supple Design  
+### [III. 柔性设计 Supple Design](cn_3.0_supple_design.md)
 
-3.1 揭示意图的接口 Intention-Revealing Interfaces  
-3.2 无副作用函数 Side-Effect-Free Functions  
+[3.1 揭示意图的接口 Intention-Revealing Interfaces](cn_3.1_intention_revealing_interfaces.md)  
+[3.2 无副作用函数 Side-Effect-Free Functions](cn_3.2_side_effect_ree_functions.md)
 [3.3 断言 Assertions](cn_3.3_assertions.md)  
-3.4 独立类 Standalone Classes  
-3.5 操作闭包 Closure of Operations  
-3.6 声明式设计 Declarative Design  
-3.7 借鉴既定形式 Drawing on Established Formalisms  
-3.8 概念轮廓 Conceptual Contours  
+[3.4 独立类 Standalone Classes](cn_3.4_standalone_classes.md)
+[3.5 操作闭包 Closure of Operations](cn_3.5_closure_of_operations.md)
+[3.6 声明式设计 Declarative Design](cn_3.6_declarative_design.md)
+[3.7 借鉴既定形式 Drawing on Established Formalisms](cn_3.7_drawing_on_established_formalisms.md)
+[3.8 概念轮廓 Conceptual Contours](cn_3.8_conceptual_contours.md)
 
 ### IV. 战略设计之上下文映射 Context Mapping for Strategic Design  
 
