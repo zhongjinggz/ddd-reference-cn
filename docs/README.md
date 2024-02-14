@@ -41,7 +41,7 @@
 ### [III. 柔性设计 Supple Design](cn_3.0_supple_design.md)
 
 [3.1 揭示意图的接口 Intention-Revealing Interfaces](cn_3.1_intention_revealing_interfaces.md)  
-[3.2 无副作用函数 Side-Effect-Free Functions](cn_3.2_side_effect_ree_functions.md)
+[3.2 无副作用函数 Side-Effect-Free Functions](cn_3.2_side_effect_free_functions.md)
 [3.3 断言 Assertions](cn_3.3_assertions.md)  
 [3.4 独立类 Standalone Classes](cn_3.4_standalone_classes.md)
 [3.5 操作闭包 Closure of Operations](cn_3.5_closure_of_operations.md)
