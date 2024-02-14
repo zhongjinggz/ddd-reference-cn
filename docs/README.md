@@ -57,24 +57,24 @@
 4.4 客户/供应商开发 Customer/Supplier Development   
 4.5 尊奉者 Conformist  
 4.6 防腐层 Anticorruption Layer   
-4.7 开放主机服务 Open‐host Service  
-4.8 发布语言 Published Language  
+[4.7 开放主机服务 Open‐host Service](cn_4.7_open_host_service.md)
+[4.8 发布语言 Published Language](cn_4.8_published_language.md)  
 4.9 彼此独立 Separate Ways  
 4.10 大泥球 Big Ball of Mud *  
 
 ### V. 战略设计之精炼 Distillation for Strategic Design  
 
 [5.1 核心域 Core Domain](cn_5.1_core_domain.md)  
-5.2 通用子域 Generic Subdomains  
+[5.2 通用子域 Generic Subdomains](cn_5.2_generic_subdomains.md)
 5.3 领域愿景陈述 Domain Vision Statement  
 5.4 强调核心 Highlighted Core  
-5.5 内聚机制 Cohesive Mechanisms  
+[5.5 内聚实现机制 Cohesive Mechanisms](cn_5.5_cohesive_mechanisms.md)
 5.6 隔离核心 Segregated Core  
 5.7 抽象核心 Abstract Core  
 
 ### VI. 战略设计之大型结构 Large-scale Structure for Strategic Design  
 
-6.1 演进式顺序 Evolving Order  
+[6.1 演进式秩序 Evolving Order](cn_6.1_evolving_order.md)  
 6.2 系统隐喻 System Metaphor  
 6.3 职责分层 Responsibility Layers  
 6.4 知识层 Knowledge Level  
