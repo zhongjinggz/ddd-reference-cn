@@ -46,7 +46,7 @@
 [3.4 独立类 Standalone Classes](cn_3.4_standalone_classes.md)
 [3.5 操作闭包 Closure of Operations](cn_3.5_closure_of_operations.md)
 [3.6 声明式设计 Declarative Design](cn_3.6_declarative_design.md)
-[3.7 借鉴既定形式 Drawing on Established Formalisms](cn_3.7_drawing_on_established_formalisms.md)
+[3.7 借鉴既有的形式系统 Drawing on Established Formalisms](cn_3.7_drawing_on_established_formalisms.md)
 [3.8 概念轮廓 Conceptual Contours](cn_3.8_conceptual_contours.md)
 
 ### IV. 战略设计之上下文映射 Context Mapping for Strategic Design  

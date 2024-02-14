@@ -26,12 +26,12 @@
 
 - III. [柔性设计](cn_3.0_supple_design.md)
   - [3.1 揭示意图的接口](cn_3.1_intention_revealing_interfaces.md)
-  - [3.2 无副作用函数](cn_3.2_side_effect_ree_functions.md)
+  - [3.2 无副作用函数](cn_3.2_side_effect_free_functions.md)
   - [3.3 断言 Assertions](cn_3.3_assertions.md)  
   - [3.4 独立类](cn_3.4_standalone_classes.md)
   - [3.5 操作闭包](cn_3.5_closure_of_operations.md)
   - [3.6 声明式设计](cn_3.6_declarative_design.md)
-  - [3.7 借鉴既定形式](cn_3.7_drawing_on_established_formalisms.md)
+  - [3.7 借鉴既有的形式系统](cn_3.7_drawing_on_established_formalisms.md)
   - [3.8 概念轮廓](cn_3.8_conceptual_contours.md)
 
 - IV. 战略设计之上下文映射
