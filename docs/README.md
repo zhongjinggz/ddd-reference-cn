@@ -41,12 +41,12 @@
 ### [III. 柔性设计 Supple Design](cn_3.0_supple_design.md)
 
 [3.1 揭示意图的接口 Intention-Revealing Interfaces](cn_3.1_intention_revealing_interfaces.md)  
-[3.2 无副作用函数 Side-Effect-Free Functions](cn_3.2_side_effect_free_functions.md)
+[3.2 无副作用函数 Side-Effect-Free Functions](cn_3.2_side_effect_free_functions.md)  
 [3.3 断言 Assertions](cn_3.3_assertions.md)  
-[3.4 独立类 Standalone Classes](cn_3.4_standalone_classes.md)
-[3.5 操作闭包 Closure of Operations](cn_3.5_closure_of_operations.md)
-[3.6 声明式设计 Declarative Design](cn_3.6_declarative_design.md)
-[3.7 借鉴既有的形式系统 Drawing on Established Formalisms](cn_3.7_drawing_on_established_formalisms.md)
+[3.4 独立类 Standalone Classes](cn_3.4_standalone_classes.md)  
+[3.5 操作闭包 Closure of Operations](cn_3.5_closure_of_operations.md)  
+[3.6 声明式设计 Declarative Design](cn_3.6_declarative_design.md)  
+[3.7 借鉴既有的形式系统 Drawing on Established Formalisms](cn_3.7_drawing_on_established_formalisms.md)  
 [3.8 概念轮廓 Conceptual Contours](cn_3.8_conceptual_contours.md)
 
 ### IV. 战略设计之上下文映射 Context Mapping for Strategic Design  
@@ -57,7 +57,7 @@
 4.4 客户/供应商开发 Customer/Supplier Development   
 4.5 尊奉者 Conformist  
 4.6 防腐层 Anticorruption Layer   
-[4.7 开放主机服务 Open‐host Service](cn_4.7_open_host_service.md)
+[4.7 开放主机服务 Open‐host Service](cn_4.7_open_host_service.md)  
 [4.8 发布语言 Published Language](cn_4.8_published_language.md)  
 4.9 彼此独立 Separate Ways  
 4.10 大泥球 Big Ball of Mud *  
@@ -68,7 +68,7 @@
 [5.2 通用子域 Generic Subdomains](cn_5.2_generic_subdomains.md)
 5.3 领域愿景陈述 Domain Vision Statement  
 5.4 强调核心 Highlighted Core  
-[5.5 内聚实现机制 Cohesive Mechanisms](cn_5.5_cohesive_mechanisms.md)
+[5.5 内聚实现机制 Cohesive Mechanisms](cn_5.5_cohesive_mechanisms.md)  
 5.6 隔离核心 Segregated Core  
 5.7 抽象核心 Abstract Core  
 
@@ -78,6 +78,6 @@
 [6.2 系统隐喻 System Metaphor](cn_6.2_system_metaphor.md)  
 [6.3 职责分层 Responsibility Layers](cn_6.3_responsibility_layers.md)  
 [6.4 知识层 Knowledge Level](cn_6.4_knowledge_level.md)  
-[6.5 可插拔组件框架 Pluggable Component Framework](cn_6.5_pluggable_component_framework.md)
+[6.5 可插拔组件框架 Pluggable Component Framework](cn_6.5_pluggable_component_framework.md)  
 
 \* 自2004年的书之后引入的新术语。  
