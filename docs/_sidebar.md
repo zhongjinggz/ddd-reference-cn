@@ -57,10 +57,10 @@
   - 5.6 隔离核心  
   - 5.7 抽象核心  
 
-- VI. 战略设计之大型结构
+- VI. [战略设计之大型结构](cn_6.0_large_scale_structure.md)
 
-  - [6.1 演进的顺序](cn_6.1_evolving_order.md)  
-  - 6.2 系统隐喻  
-  - 6.3 职责分层  
-  - 6.4 知识层  
-  - 6.5 可插拔组件框架  
+  - [6.1 演进式秩序](cn_6.1_evolving_order.md)  
+  - [6.2 系统隐喻](cn_6.2_system_metaphor.md)  
+  - [6.3 职责分层](cn_6.3_responsibility_layers.md)
+  - [6.4 知识层](cn_6.4_knowledge_level.md)
+  - [6.5 可插拔组件框架](cn_6.5_pluggable_component_framework.md)

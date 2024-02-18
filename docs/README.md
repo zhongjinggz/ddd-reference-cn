@@ -72,12 +72,12 @@
 5.6 隔离核心 Segregated Core  
 5.7 抽象核心 Abstract Core  
 
-### VI. 战略设计之大型结构 Large-scale Structure for Strategic Design  
+### VI. [战略设计之大型结构 Large-scale Structure for Strategic Design](cn_6.0_large_scale_structure.md)
 
 [6.1 演进式秩序 Evolving Order](cn_6.1_evolving_order.md)  
-6.2 系统隐喻 System Metaphor  
-6.3 职责分层 Responsibility Layers  
-6.4 知识层 Knowledge Level  
-6.5 可插拔组件框架 Pluggable Component Framework  
+[6.2 系统隐喻 System Metaphor](cn_6.2_system_metaphor.md)  
+[6.3 职责分层 Responsibility Layers](cn_6.3_responsibility_layers.md) 
+[6.4 知识层 Knowledge Level](cn_6.4_knowledge_level.md)
+[6.5 可插拔组件框架 Pluggable Component Framework](cn_6.5_pluggable_component_framework.md)
 
 \* 自2004年的书之后引入的新术语。  
