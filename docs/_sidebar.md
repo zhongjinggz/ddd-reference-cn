@@ -24,7 +24,7 @@
   - [2.8 仓库](cn_2.8_repositories.md)  
   - [2.9 工厂](cn_2.9_factories.md)
 
-- III. [柔性设计](cn_3.0_supple_design.md)
+- [III. 柔性设计](cn_3.0_supple_design.md)
   - [3.1 揭示意图的接口](cn_3.1_intention_revealing_interfaces.md)
   - [3.2 无副作用函数](cn_3.2_side_effect_free_functions.md)
   - [3.3 断言 Assertions](cn_3.3_assertions.md)  
@@ -47,15 +47,15 @@
   - 4.9 彼此独立  
   - 4.10 大泥球*  
 
-- V. 战略设计之精炼
+- [V. 战略设计之精炼](cn_5.0_distillation_for_strategic_design.md)
 
   - [5.1 核心域](cn_5.1_core_domain.md)
   - [5.2 通用子域](cn_5.2_generic_subdomains.md)  
-  - 5.3 领域愿景陈述  
-  - 5.4 突出核心  
+  - [5.3 领域愿景声明](cn_5.3_domain_vision_statement.md)  
+  - [5.4 突出核心](cn_5.4_Highlighted%20Core.md)  
   - [5.5 内聚实现机制](cn_5.5_cohesive_mechanisms.md)  
-  - 5.6 隔离核心  
-  - 5.7 抽象核心  
+  - [5.6 隔离核心](cn_5.6_segregated_core.md)  
+  - [5.7 抽象核心](cn_5.7_abstract_core.md)
 
 - VI. [战略设计之大型结构](cn_6.0_large_scale_structure.md)  
 
