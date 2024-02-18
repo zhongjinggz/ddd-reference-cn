@@ -28,11 +28,11 @@
   - [3.1 揭示意图的接口](cn_3.1_intention_revealing_interfaces.md)
   - [3.2 无副作用函数](cn_3.2_side_effect_free_functions.md)
   - [3.3 断言 Assertions](cn_3.3_assertions.md)  
-  - [3.4 独立类](cn_3.4_standalone_classes.md)
-  - [3.5 操作闭包](cn_3.5_closure_of_operations.md)
-  - [3.6 声明式设计](cn_3.6_declarative_design.md)
-  - [3.7 借鉴既有的形式系统](cn_3.7_drawing_on_established_formalisms.md)
-  - [3.8 概念轮廓](cn_3.8_conceptual_contours.md)
+  - [3.4 独立类](cn_3.4_standalone_classes.md)  
+  - [3.5 操作闭包](cn_3.5_closure_of_operations.md)  
+  - [3.6 声明式设计](cn_3.6_declarative_design.md)  
+  - [3.7 借鉴既有的形式系统](cn_3.7_drawing_on_established_formalisms.md)  
+  - [3.8 概念轮廓](cn_3.8_conceptual_contours.md)  
 
 - IV. 战略设计之上下文映射
 
@@ -42,7 +42,7 @@
   - 4.4 客户/供应商开发  
   - 4.5 尊奉者
   - 4.6 防腐层
-  - [4.7 开放主机服务](cn_4.7_open_host_service.md)
+  - [4.7 开放主机服务](cn_4.7_open_host_service.md)  
   - [4.8 发布语言](cn_4.8_published_language.md)  
   - 4.9 彼此独立  
   - 4.10 大泥球*  
@@ -50,17 +50,17 @@
 - V. 战略设计之精炼
 
   - [5.1 核心域](cn_5.1_core_domain.md)
-  - [5.2 通用子域](cn_5.2_generic_subdomains.md) 
+  - [5.2 通用子域](cn_5.2_generic_subdomains.md)  
   - 5.3 领域愿景陈述  
-  - 5.4 突出核心
-  - [5.5 内聚实现机制](cn_5.5_cohesive_mechanisms.md)
+  - 5.4 突出核心  
+  - [5.5 内聚实现机制](cn_5.5_cohesive_mechanisms.md)  
   - 5.6 隔离核心  
   - 5.7 抽象核心  
 
-- VI. [战略设计之大型结构](cn_6.0_large_scale_structure.md)
+- VI. [战略设计之大型结构](cn_6.0_large_scale_structure.md)  
 
   - [6.1 演进式秩序](cn_6.1_evolving_order.md)  
   - [6.2 系统隐喻](cn_6.2_system_metaphor.md)  
-  - [6.3 职责分层](cn_6.3_responsibility_layers.md)
-  - [6.4 知识层](cn_6.4_knowledge_level.md)
-  - [6.5 可插拔组件框架](cn_6.5_pluggable_component_framework.md)
+  - [6.3 职责分层](cn_6.3_responsibility_layers.md)  
+  - [6.4 知识层](cn_6.4_knowledge_level.md)  
+  - [6.5 可插拔组件框架](cn_6.5_pluggable_component_framework.md)  
