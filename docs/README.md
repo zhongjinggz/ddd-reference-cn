@@ -46,21 +46,21 @@
 [3.4 独立类 Standalone Classes](cn_3.4_standalone_classes.md)  
 [3.5 操作闭包 Closure of Operations](cn_3.5_closure_of_operations.md)  
 [3.6 声明式设计 Declarative Design](cn_3.6_declarative_design.md)  
-[3.7 借鉴既有的形式系统 Drawing on Established Formalisms](cn_3.7_drawing_on_established_formalisms.md)  
+[3.7 借鉴既有形式系统 Drawing on Established Formalisms](cn_3.7_drawing_on_established_formalisms.md)  
 [3.8 概念轮廓 Conceptual Contours](cn_3.8_conceptual_contours.md)
 
-### IV. 战略设计之上下文映射 Context Mapping for Strategic Design  
+### [IV. 战略设计之上下文映射 Context Mapping for Strategic Design](cn_4.0_context_mapping_for_strategic_design.md)  
 
-4.1 上下文映射 Context Map  
-4.2 伙伴关系 Partnership *  
-4.3 共享内核 Shared Kernel  
-4.4 客户/供应商开发 Customer/Supplier Development   
-4.5 尊奉者 Conformist  
-4.6 防腐层 Anticorruption Layer   
+[4.1 上下文映射 Context Map](cn_4.1_context_map.md)  
+[4.2 合作关系 Partnership *](cn_4.2_partnership.md)  
+[4.3 共享内核 Shared Kernel](cn_4.3_shared_kernel.md)  
+[4.4 供求式开发 Customer/Supplier Development](cn_4.4_customer_supplier_development%20.md)   
+[4.5 遵从者 Conformist](cn_4.5_conformist.md)  
+[4.6 防腐层 Anticorruption Layer](cn_4.6_anticorruption_layer.md)   
 [4.7 开放主机服务 Open‐host Service](cn_4.7_open_host_service.md)  
 [4.8 发布语言 Published Language](cn_4.8_published_language.md)  
-4.9 彼此独立 Separate Ways  
-4.10 大泥球 Big Ball of Mud *  
+[4.9 各行其道 Separate Ways](cn_4.9_separate_ways%20.md)  
+[4.10 大泥球 Big Ball of Mud *](cn_4.10_big_ball_of_mud.md)  
 
 ### [V. 战略设计之精炼 Distillation for Strategic Design](cn_5.0_distillation_for_strategic_design.md)  
 
@@ -80,4 +80,4 @@
 [6.4 知识层 Knowledge Level](cn_6.4_knowledge_level.md)  
 [6.5 可插拔组件框架 Pluggable Component Framework](cn_6.5_pluggable_component_framework.md)  
 
-\* 自2004年的书之后引入的新术语。  
+\* 自2004年《领域驱动设计》一书出版之后引入的新术语。  
