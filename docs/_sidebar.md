@@ -10,7 +10,7 @@
   - [1.2 统一语言](cn_1.2_ubiquitous_language.md)
   - [1.3 持续集成](cn_1.3_continuous_integration.md)
   - [1.4 模型驱动设计](cn_1.4_model_driven_design.md)
-  - [1.5 实操性建模师](cn_1.5_hands_on_modlers.md)
+  - [1.5 实操型建模师](cn_1.5_hands_on_modlers.md)
   - [1.6 通过重构加深理解](cn_1.6_refactoring_toward_deeper_insight.md)
 
 - [II. 模型驱动设计的构建块](cn_2.0_building_blocks_of_a_model_driven_design.md)  
