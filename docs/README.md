@@ -20,7 +20,7 @@
 ### [I. 运用模型 Putting the Model to Work](cn_1.0_putting_the_model_to_work.md)  
 
 [1.1 限界上下文 Bounded Context](cn_1.1_bounted_context.md)  
-[1.2 统一语言 Ubiquitous Language](cn_1.2_ubiquitous_language.md)  
+[1.2 通用语言 Ubiquitous Language](cn_1.2_ubiquitous_language.md)  
 [1.3 持续集成 Continuous Integration](cn_1.3_continuous_integration.md)  
 [1.4 模型驱动设计 Model‐Driven Design](cn_1.4_model_driven_design.md)  
 [1.5 实操型建模师 Hands‐on Modelers](cn_1.5_hands_on_modlers.md)  

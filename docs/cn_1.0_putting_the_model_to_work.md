@@ -3,7 +3,7 @@
 
 1. 专注*核心域（core domain）*。
 2. 通过领域人员和软件人员的创造性协作来探索模型。
-3. 在明确的*限界上下文（bounded context）*中使用*统一语言（ ubiquitous language）*。
+3. 在明确的*限界上下文（bounded context）*中使用*通用语言（ ubiquitous language）*。
 
 本手册定义了DDD的上述三点概述中的术语。
 
