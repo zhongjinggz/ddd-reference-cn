@@ -26,7 +26,7 @@
 [1.5 实操型建模师 Hands‐on Modelers](cn_1.5_hands_on_modlers.md)  
 [1.6 通过重构加深理解 Refactoring Toward Deeper Insight](cn_1.6_refactoring_toward_deeper_insight.md)  
 
-### [II. 模型驱动设计的构建块 Building Blocks of a Model-Driven Design](cn_2.0_building_blocks_of_a_model_driven_design.md)  
+### [II. 模型驱动设计的构造块 Building Blocks of a Model-Driven Design](cn_2.0_building_blocks_of_a_model_driven_design.md)  
 
 [2.1 分层架构 Layered Architecture](cn_2.1_layered_architecture.md)  
 [2.2 实体 Entities](cn_2.2_entities.md)  

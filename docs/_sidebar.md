@@ -13,7 +13,7 @@
   - [1.5 实操型建模师](cn_1.5_hands_on_modlers.md)
   - [1.6 通过重构加深理解](cn_1.6_refactoring_toward_deeper_insight.md)
 
-- [II. 模型驱动设计的构建块](cn_2.0_building_blocks_of_a_model_driven_design.md)  
+- [II. 模型驱动设计的构造块](cn_2.0_building_blocks_of_a_model_driven_design.md)  
   - [2.1 分层架构](cn_2.1_layered_architecture.md)  
   - [2.2 实体](cn_2.2_entities.md)
   - [2.3 值对象](cn_2.3_value_objects.md)
