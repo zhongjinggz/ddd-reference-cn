@@ -7,7 +7,7 @@
 
 - [I. 让模型发挥作用](cn_1.0_putting_the_model_to_work.md)
   - [1.1 限界上下文](cn_1.1_bounted_context.md)
-  - [1.2 通用语言](cn_1.2_ubiquitous_language.md)
+  - [1.2 统一语言](cn_1.2_ubiquitous_language.md)
   - [1.3 持续集成](cn_1.3_continuous_integration.md)
   - [1.4 模型驱动设计](cn_1.4_model_driven_design.md)
   - [1.5 实操型建模师](cn_1.5_hands_on_modlers.md)
@@ -25,7 +25,7 @@
   - [2.9 工厂](cn_2.9_factories.md)
 
 - [III. 柔性设计](cn_3.0_supple_design.md)
-  - [3.1 揭示意图的接口](cn_3.1_intention_revealing_interfaces.md)
+  - [3.1 表意接口](cn_3.1_intention_revealing_interfaces.md)
   - [3.2 无副作用函数](cn_3.2_side_effect_free_functions.md)
   - [3.3 断言 Assertions](cn_3.3_assertions.md)  
   - [3.4 独立类](cn_3.4_standalone_classes.md)    
